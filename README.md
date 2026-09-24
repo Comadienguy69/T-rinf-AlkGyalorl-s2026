@@ -11,4 +11,11 @@ Térinformatika és Alk. gyakorlása itt az oldalon
  *  hogy ha így írom akkor változik?
  *   hogy ha így írom akkor változik?
 
+# Harmadik commit
+1. t
+32. v
+33. h
 
+34. de
+
+35. 
