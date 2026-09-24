@@ -8,8 +8,8 @@ Térinformatika és Alk. gyakorlása itt az oldalon
 
 # Második commit
  * hogy ha így írom akkor változik?
- *  hogy ha így írom akkor változik?ű
- *    hogy ha így írom akkor változik?
+ *  hogy ha így írom akkor változik?
+ *   hogy ha így írom akkor változik?
 
 # Harmadik commit
 1. t
